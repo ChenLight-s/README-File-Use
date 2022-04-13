@@ -26,7 +26,11 @@ README文件使用技巧经验
       1. 例如，github上的图片<img src="https://raw.githubusercontent.com/ChenLight-s/ChenLight-s.github.io/master/图片/罗小黑战记.png" alt="名字" style="zoom: 50%;" />
       2. 网络上的图片<img src="http://tva3.sinaimg.cn/large/ae07c035gy1gqk6zlt4r8j20n00n0whe.jpg" alt="名字可以任意" style="zoom:25%;" />
 
-2. 使用格式<!--<img src="图片链接"/>-->
+2. ##### 使用格式
+
+   ```html
+   <img src="图片链接"/> <!--显示原图-->
+   ```
 
 3. <img src=".\图片\10f00cfba90c332d16dfdebd7d203978.jpg" alt="名字" style="zoom:50%;" />
 
