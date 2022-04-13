@@ -1,7 +1,3 @@
-```
-
-```
-
 # README-File-Use
 README文件使用技巧经验
 
@@ -81,7 +77,8 @@ README文件使用技巧经验
       1. ###### 以项目中图片的*<u>**相对地址**</u>*进行显示，例如该项目中，要显示 图片/10f00cfba90c332d16dfdebd7d203978.jpg  ，只需要输入 ：
 
          ```
-         ![](./图片/10f00cfba90c332d16dfdebd7d203978.jpg) //Markdown模式只是为了文本显示，使用时不要使用该模式，直接在readme中输入即可
+         ![](./图片/10f00cfba90c332d16dfdebd7d203978.jpg) 
+         //Markdown模式只是为了文本显示，使用时不要使用该模式，直接在readme中输入即可
          ```
 
          ![](./图片/10f00cfba90c332d16dfdebd7d203978.jpg)
@@ -89,7 +86,8 @@ README文件使用技巧经验
       2. 以项目中图片的*<u>**网络地址**</u>*进行显示，例如该项目中，,如有兴趣可以分析网址，在此不做分析
 
          ```
-         ![](https://github.com/ChenLight-s/README-File-Use/blob/main/%E5%9B%BE%E7%89%87/e72bc48116d2db6e3ce4801f8e5ff2e0.jpg?raw=true) //Markdown模式只是为了文本显示，使用时不要使用该模式，直接在readme中输入即可
+         ![](https://github.com/ChenLight-s/README-File-Use/blob/main/%E5%9B%BE%E7%89%87/e72bc48116d2db6e3ce4801f8e5ff2e0.jpg?raw=true) 
+         //Markdown模式只是为了文本显示，使用时不要使用该模式，直接在readme中输入即可
          ```
 
          ![](https://github.com/ChenLight-s/README-File-Use/blob/main/%E5%9B%BE%E7%89%87/e72bc48116d2db6e3ce4801f8e5ff2e0.jpg?raw=true)
